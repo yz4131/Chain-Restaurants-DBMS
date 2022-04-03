@@ -10,7 +10,8 @@
 
 + 1. Open terminal, run git clone https://github.com/yz4131/Chain-Restaurants-DBMS
 + 2. Install the required lib, including flask, flask_cors, psycopg2, sqlalchemy, nodeJS, npm, react-scripts(npm i react-scripts)
-+ 3. Run npm start then you're all set
++ 3. Run app.py
++ 4. Run npm start then you're all set
 
 **Contributors:**
 
