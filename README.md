@@ -1,6 +1,6 @@
 # Chain Restaurants Database Management System
 
-![screenshot](src/assets/logo.png)
+![screenshot](src/assets/er.png)
 
 **Web URL:**
 
