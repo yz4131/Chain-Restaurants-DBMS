@@ -24,7 +24,7 @@
 
 **Description:**
 
-We developed a Web UI for any restaurants to easily manage its Database. 
+We developed a Web UI for any restaurants to easily manage its Database. Web UI is based on React and Flask(Flask serves as an API to retrive data from our Database).
 
 + Restaurants Customers: go through Restaurants' Menu, and giving tips to Waiters. 
 
