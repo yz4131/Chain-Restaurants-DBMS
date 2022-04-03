@@ -37,6 +37,9 @@ Employees are devided into 3 roles: Chefs, Cashiers and Waiters.
 
 + Waiters: check shift, salary and tips they received
 
+**Some Interesting Web Pages**
+
++ 1. Cashiers' check out page. A Customer tell Cashier his/her names, email address, and what he/she would like to order and Cashier selects the items, selects the Restaurant ID the Customer visits, and fills in Cashier' ID. On the backend, Customer's email and name will be stored in "Customers Table"(if not already exists) and an order ID and a Customer ID will be created for this New Customer. If he/she is an old customer, his/her Customer ID will be searched from the Database and an order ID will be generated. His/Her visiting records will be stored in "Visits Table".
 
 
 
