@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a18d17c1.css",
+    "main.js": "/static/js/main.102eba38.js",
+    "static/js/787.0f148dca.chunk.js": "/static/js/787.0f148dca.chunk.js",
+    "static/media/fries.jpg": "/static/media/fries.197736a557ac2068bc3d.jpg",
+    "static/media/fish.jpg": "/static/media/fish.6d85b0e68664a8db0c38.jpg",
+    "static/media/chickenmeat.jpg": "/static/media/chickenmeat.fad61346ffeb5d662056.jpg",
+    "static/media/chef.png": "/static/media/chef.55b817e7bd25173366fc.png",
+    "static/media/salary.png": "/static/media/salary.22a47cfb8024ab0b0318.png",
+    "static/media/shift.png": "/static/media/shift.8a95ff1c08097255fece.png",
+    "static/media/waiter.png": "/static/media/waiter.42eaf4f74bf19dbb19c2.png",
+    "static/media/double-burger.jpg": "/static/media/double-burger.66c8153699de0e723ee6.jpg",
+    "static/media/manager.png": "/static/media/manager.cc9c4cb2be1a96ef9dc1.png",
+    "static/media/cashier.png": "/static/media/cashier.f539b57313714751369b.png",
+    "static/media/hire.png": "/static/media/hire.0791e87c4644cf18812c.png",
+    "static/media/chicken.jpg": "/static/media/chicken.d847f62640b03c7362d9.jpg",
+    "static/media/tips.png": "/static/media/tips.d3cd0854f8f1b40784ea.png",
+    "static/media/adjustment.png": "/static/media/adjustment.d1855e52837926a819e4.png",
+    "static/media/icecream.jpg": "/static/media/icecream.58f46bacb0dbe8857e72.jpg",
+    "static/media/coke.jpg": "/static/media/coke.468b29fbc3b7204f1955.jpg",
+    "static/media/register.png": "/static/media/register.074e6835723ef9e2e214.png",
+    "static/media/info.png": "/static/media/info.25af889e2f27f82c41e9.png",
+    "index.html": "/index.html",
+    "main.a18d17c1.css.map": "/static/css/main.a18d17c1.css.map",
+    "main.102eba38.js.map": "/static/js/main.102eba38.js.map",
+    "787.0f148dca.chunk.js.map": "/static/js/787.0f148dca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a18d17c1.css",
+    "static/js/main.102eba38.js"
+  ]
+}
