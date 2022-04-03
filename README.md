@@ -25,8 +25,18 @@
 
 We developed a Web UI for any restaurants to easily manage its Database. 
 
-+ For Restaurants Customers, they could use this website to go through Restaurants' Menu, and giving tips to Waiters. 
++ Restaurants Customers: go through Restaurants' Menu, and giving tips to Waiters. 
 
-+ For
++ Restaurants Manager: check the information of all Customers and Employees, make adjustments to Employees' information, hire new Employees
+
+Employees are devided into 3 roles: Chefs, Cashiers and Waiters.
+
++ Chefs: check shift, salary, and record cooking information for food safety purpose.
+
++ Cashiers: check shift, salary, and check out(recording Customers personal information, payment information, order information)
+
++ Waiters: check shift, salary and tips they received
+
+
 
 
