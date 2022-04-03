@@ -2,4 +2,4 @@
 
 **COMS 4111 Project
 
-![screenshot](src/assets/logo.png
+![screenshot](src/assets/logo.png)
