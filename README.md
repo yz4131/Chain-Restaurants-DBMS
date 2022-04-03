@@ -8,9 +8,9 @@
 
 **Installation Steps:**
 
-+ 1. open terminal, run git clone https://github.com/yz4131/Chain-Restaurants-DBMS
-+ 2. install the required lib, including flask, flask_cors, psycopg2, sqlalchemy, nodeJS, npm, react-scripts(npm i react-scripts)
-+ 3. run npm start then you're all set
++ 1. Open terminal, run git clone https://github.com/yz4131/Chain-Restaurants-DBMS
++ 2. Install the required lib, including flask, flask_cors, psycopg2, sqlalchemy, nodeJS, npm, react-scripts(npm i react-scripts)
++ 3. Run npm start then you're all set
 
 **Contributors:**
 
@@ -22,5 +22,11 @@
 + yc3993
 
 **Description:**
+
+We developed a Web UI for any restaurants to easily manage its Database. 
+
++ For Restaurants Customers, they could use this website to go through Restaurants' Menu, and giving tips to Waiters. 
+
++ For
 
 
