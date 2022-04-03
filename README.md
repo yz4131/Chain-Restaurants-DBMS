@@ -44,5 +44,9 @@ Employees are devided into 3 roles: Chefs, Cashiers and Waiters.
 
 + 2. Managers' Adjustment page(used by managers to make adjustment to Employees). Manager can simply select the Employee Category(Chefs, Cashiers, Waiters), type in Employee's ID and fill in the information he/she wants to modify. Manager can leave the information he/she does not want to change blank. On the backend, the Manager's input will be checked first. If the Employee ID does not exists, then nothing will be wrote into Database and there will be no response in the front-end, implying that a bad request is made by the Manager. If the Employee ID does exist, then all the empty input will be skipped and information regarding this Employee will be updated to the new value the Manager sets. Then "you are all set" will be poped on the front-end to inform the Manager that change is successfully made.
 
+**Bugs**
+
++ 1. Media Query is not yet implemented. As a result, the web pages will not function well on mobile devices like mobile phones or iPads.
+
 
 
